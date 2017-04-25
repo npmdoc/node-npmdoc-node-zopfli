@@ -1,4 +1,7 @@
-# api documentation for  [node-zopfli (v2.0.2)](https://github.com/pierreinglebert/node-zopfli)  [![npm package](https://img.shields.io/npm/v/npmdoc-node-zopfli.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-node-zopfli) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-node-zopfli.svg)](https://travis-ci.org/npmdoc/node-npmdoc-node-zopfli)
+# npmdoc-node-zopfli
+
+#### basic api documentation for  [node-zopfli (v2.0.2)](https://github.com/pierreinglebert/node-zopfli)  [![npm package](https://img.shields.io/npm/v/npmdoc-node-zopfli.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-node-zopfli) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-node-zopfli.svg)](https://travis-ci.org/npmdoc/node-npmdoc-node-zopfli)
+
 #### Bindings for Zopfli compressing lib. Compress gzip files 5% better than gzip.
 
 [![NPM](https://nodei.co/npm/node-zopfli.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/node-zopfli)
